@@ -1,0 +1,23 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-bar{
+  text-align: center;
+  height: 100px;
+  background: linear-gradient( to right, #1cb5e0, #000046 );
+  color: white;
+  display: flex;
+  align-items: center;
+  font-size: 25px;
+  font-weight: bold;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.dot{
+    color:yellow;
+}
