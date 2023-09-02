@@ -1,0 +1,19 @@
+.todo-date{
+    background-color: rgb(91, 175, 243);
+    font-family: "Epilogue", sans-serif;
+    font-family: "Roboto", sans-serif;
+    padding: 9px 12px;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+::-webkit-calendar-picker-indicator {
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+  }

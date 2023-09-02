@@ -4,7 +4,7 @@ function HomeComponent() {
   return (
     <div>
       <h1>Home RetroHammer 🏠</h1>
-      <RoundedButton/>
+      <RoundedButton text="Click to Go About" />
     </div>
   );
 }

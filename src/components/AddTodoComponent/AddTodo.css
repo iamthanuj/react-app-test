@@ -1,0 +1,12 @@
+.add-todo {
+    max-width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(91, 175, 243, 0.288);
+    padding: 24px;
+}
