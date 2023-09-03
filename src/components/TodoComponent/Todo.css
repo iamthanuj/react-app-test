@@ -1,0 +1,11 @@
+.Todo {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  font-size: 18px;
+  background-color: rgba(91, 175, 243, 0.116);
+  border-radius: 5px;
+  color: rgb(0, 140, 255);
+}

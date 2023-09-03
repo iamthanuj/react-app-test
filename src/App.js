@@ -1,5 +1,6 @@
 import NavBar from "./components/NavbarComponent/NavBar";
 import AddTodo from "./components/AddTodoComponent/AddTodo";
+import TodoList from "./components/TodoListComponent/TodoList";
 import "./App.css";
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div className="App">
       <NavBar />
       <AddTodo />
+      <TodoList />
     </div>
   );
 }
