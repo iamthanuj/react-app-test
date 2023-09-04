@@ -1,0 +1,10 @@
+.Remove-Button {
+  background-color: rgb(10, 161, 248);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0px 0px 5px rgba(91, 175, 243, 0.822);
+  transition: all 250ms;
+}
