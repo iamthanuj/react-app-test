@@ -5,7 +5,7 @@ import "../TodoComponent/Todo.css";
 export default function Todo() {
   return (
     <li className="Todo">
-      asdasd
+      asdasdasd
       <span className="Todo-Right">
         <EditButton />
         <RemoveButton />

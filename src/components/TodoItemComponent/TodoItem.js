@@ -6,6 +6,7 @@ export default function TodoItem() {
   return (
     <ul className="Todo-Item">
         <Todo/>
+        <Todo/>
     </ul>
   )
 }
